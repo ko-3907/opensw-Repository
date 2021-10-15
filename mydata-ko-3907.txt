@@ -1,0 +1,6 @@
+name : kotaekyung
+number : 2021041001
+major : software
+grade : first year
+subject : opensource software
+
