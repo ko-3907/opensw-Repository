@@ -3,4 +3,4 @@ number : 2021041001
 major : software
 grade : first year
 subject : opensource software
-
+Today's good phrase : Life is full of ups and downs
